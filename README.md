@@ -20,3 +20,4 @@ The position of the dots follow a normal distribution.
   5. 초록 +표시: 전체 집단의 이론적인 평균
 
 matplotlib 모듈 또는 Python이 없는 경우 .exe를 다운받으십시오. 단, .exe 파일은 실행 시 시간이 좀 걸립니다.
+개선점은 별도의 파일 이름(ex: datamining_1.2, datamining_1.3, ...)을 지정하여 업로드해주십시오.
